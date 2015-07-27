@@ -1,0 +1,20 @@
+{
+  "name": "simple-admin",
+  "version": "1",
+  "description": "Painel administrativo",
+  "authors": [
+    "Tiago R. Lammers"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
